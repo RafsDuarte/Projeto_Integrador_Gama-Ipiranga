@@ -6,8 +6,10 @@ Este é um Projeto Integrador da Gama Academy, do Bootcamp Ipiranga Tech, no qua
 
 # Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/74211185?s=96&v=4" width=115><br><sub>Wanderson Santos</sub>](https://github.com/WSantosRJ) |  [<img src="https://avatars.githubusercontent.com/u/39318816?v=4" width=115><br><sub>Rafael Duarte</sub>](https://github.com/RafsDuarte) |  [<img src="https://avatars.githubusercontent.com/u/132855007?v=4" width=115><br><sub>Mateus Dias</sub>](https://github.com/mateusdias97) |
-| :---: | :---: | :---: |
+| [<img src="https://avatars.githubusercontent.com/u/74211185?s=96&v=4" width=115><br><sub>Wanderson Santos</sub>](https://github.com/WSantosRJ) |  [<img src="https://avatars.githubusercontent.com/u/39318816?v=4" width=115><br><sub>Rafael Duarte</sub>](https://github.com/RafsDuarte) |  [<img src="https://avatars.githubusercontent.com/u/132855007?v=4" width=115><br><sub>Mateus Dias</sub>](https://github.com/mateusdias97) | [<img src="https://avatars.githubusercontent.com/u/133434529?v=4" width=115><br><sub>Ângela Moreira</sub>](https://github.com/Airamalegna) |
+| :---: | :---: | :---: | :---: |
+
+
 
 
 Link do Trello que foi utilizado como Kanban: https://trello.com/b/XZZqzSYO/pesquisa-ipiranga
