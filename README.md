@@ -14,4 +14,6 @@ Wanderson Santos
 
 Link do Trello que foi utilizado como Kanban: https://trello.com/b/XZZqzSYO/pesquisa-ipiranga
 
-:construction: Projeto em construção :construction:
+<h4 align="center"> 
+    :construction:  Projeto em construção  :construction:
+</h4>
