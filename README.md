@@ -6,7 +6,7 @@ Este é um Projeto Integrador da Gama Academy, do Bootcamp Ipiranga Tech, no qua
 
 # Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/74211185?s=96&v=4" width=115><br><sub>Wanderson Santos</sub>](https://github.com/WSantosRJ) |  [<img src="https://avatars.githubusercontent.com/u/39318816?v=4" width=115><br><sub>Rafael Duarte</sub>](https://github.com/RafsDuarte) |  [<img src="." width=115><br><sub>.</sub>](.) |
+| [<img src="https://avatars.githubusercontent.com/u/74211185?s=96&v=4" width=115><br><sub>Wanderson Santos</sub>](https://github.com/WSantosRJ) |  [<img src="https://avatars.githubusercontent.com/u/39318816?v=4" width=115><br><sub>Rafael Duarte</sub>](https://github.com/RafsDuarte) |  [<img src="https://avatars.githubusercontent.com/u/132855007?v=4" width=115><br><sub>Mateus Dias</sub>](https://github.com/mateusdias97) |
 | :---: | :---: | :---: |
 
 
