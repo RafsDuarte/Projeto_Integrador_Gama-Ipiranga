@@ -14,7 +14,9 @@ Este é um Projeto Integrador da Gama Academy, do Bootcamp Ipiranga Tech, no qua
 
 Link do Trello que foi utilizado como Kanban: https://trello.com/b/XZZqzSYO/pesquisa-ipiranga
 
-## ✔️ Técnicas e tecnologias utilizadas
+## Ferramentas e Tecnologias Utilizadas
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
 - ``Google Forms``
 - ``Excel``
