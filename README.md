@@ -2,7 +2,7 @@
 
 # <h2 align="center">Descrição do Projeto</h2>
 
-Este é um Projeto Integrador da Gama Academy, do Bootcamp Ipiranga Tech, no qual realizamos uma pesquisa sobre o uso do App <strong><u>Abastece Aí</u></strong> dos Postos Ipiranga. Utilizamos a metodologia Scrum para planejar as atividades e o Kanban para acompanhar o progresso do trabalho. Coletamos os dados utilizando a ferramenta Google Forms e utilizamos a ferramenta Power BI para analisar e apresentar os resultados.
+<p align="justify">Este é um Projeto Integrador da Gama Academy, do Bootcamp Ipiranga Tech, no qual realizamos uma pesquisa sobre o uso do App <strong><u>Abastece Aí</u></strong> dos Postos Ipiranga. Utilizamos a metodologia Scrum para planejar as atividades e o Kanban para acompanhar o progresso do trabalho. Coletamos os dados utilizando a ferramenta Google Forms e utilizamos a ferramenta Power BI para analisar e apresentar os resultados.</p>
 
 # Autores
 
@@ -10,13 +10,11 @@ Este é um Projeto Integrador da Gama Academy, do Bootcamp Ipiranga Tech, no qua
 | :---: | :---: | :---: | :---: | :---: |
 
 
-
-
-Link do Trello que foi utilizado como Kanban: https://trello.com/b/XZZqzSYO/pesquisa-ipiranga
-
 ## Ferramentas e Tecnologias Utilizadas
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+
+Link do Trello que foi utilizado como Kanban: https://trello.com/b/XZZqzSYO/pesquisa-ipiranga
 
 - ``Google Forms``
 - ``Excel``
@@ -27,10 +25,6 @@ Link do Trello que foi utilizado como Kanban: https://trello.com/b/XZZqzSYO/pesq
 
 
 ## 📁 Acesso aos Arquivos do Projeto
-:file_folder:  - [Imagens utilizadas no Projeto](https://github.com/RafsDuarte/Projeto_Integrador_Gama-Ipiranga/tree/Images).<br>
-:file_folder:  - [Banco de Dados do Projeto](https://github.com/RafsDuarte/Projeto_Integrador_Gama-Ipiranga/tree/Base_Dados).<br>
-:file_folder:  - [Dashboard](https://github.com/RafsDuarte/Projeto_Integrador_Gama-Ipiranga/tree/Dashboard).<br>
-
-<h4 align="center"> 
-    :construction:  Projeto em construção  :construction:
-</h4>
+:file_folder:  - [Imagens utilizadas no Projeto](https://github.com/RafsDuarte/Projeto_Integrador_Gama-Ipiranga/tree/Imgs)<br>
+:file_folder:  - [Banco de Dados do Projeto](https://github.com/RafsDuarte/Projeto_Integrador_Gama-Ipiranga/tree/DB)<br>
+:file_folder:  - [Dashboard](https://github.com/RafsDuarte/Projeto_Integrador_Gama-Ipiranga/tree/Dashboard)<br>
