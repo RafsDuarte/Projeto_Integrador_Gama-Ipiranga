@@ -28,3 +28,4 @@ Link do Trello que foi utilizado como Kanban: https://trello.com/b/XZZqzSYO/pesq
 :file_folder:  [Imagens utilizadas no Projeto](https://github.com/RafsDuarte/Projeto_Integrador_Gama-Ipiranga/tree/Imgs)<br>
 :file_folder:  [Banco de Dados do Projeto](https://github.com/RafsDuarte/Projeto_Integrador_Gama-Ipiranga/tree/DB)<br>
 :file_folder:  [Dashboard](https://github.com/RafsDuarte/Projeto_Integrador_Gama-Ipiranga/tree/Dashboard)<br>
+:floppy_disk:  [Apresentação.pptx](https://github.com/RafsDuarte/Projeto_Integrador_Gama-Ipiranga/blob/main/Apresenta%C3%A7%C3%A3o.pptx)
